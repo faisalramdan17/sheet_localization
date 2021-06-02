@@ -1,6 +1,6 @@
 name: sheet_localization
 description: Annotations for the sheet_localization_generator package.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/faisalramdan17/sheet_localization
 
 environment:

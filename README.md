@@ -11,7 +11,7 @@ A simple usage example:
 import 'package:sheet_localization/sheet_localization.dart';
 
 main() {
-  var awesome = new Awesome();
+  var sheetLocalization = SheetLocalization();
 }
 ```
 
